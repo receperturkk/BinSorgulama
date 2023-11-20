@@ -76,6 +76,7 @@ namespace BinSorgulama
             };
             #endregion
 
+            Console.WriteLine("Sorguladığınız Bin: " + bin);
             Console.WriteLine("Bank Code: " + bankInfo.Bank_Code);
             Console.WriteLine("Bank Name: " + bankInfo.Bank_Name);
             Console.WriteLine("Bank Brand: " + bankInfo.Bank_Brand);
